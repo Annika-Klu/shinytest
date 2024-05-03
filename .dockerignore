@@ -1,0 +1,10 @@
+# ---- R related
+
+# processing files
+.Rhistory
+.RData
+.Rproj.user/
+
+# Local dir for installed packages and script to install them
+R_packages/
+packages.R
